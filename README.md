@@ -44,3 +44,6 @@
 [1977A.cpp](https://github.com/Jackson-0915/Codeforces/blob/main/cpp/1977A.cpp)  
 [2009A.cpp](https://github.com/Jackson-0915/Codeforces/blob/main/cpp/2009A.cpp)  
 [2044C.cpp](https://github.com/Jackson-0915/Codeforces/blob/main/cpp/2044C.cpp)  
+## Python
+[266A.py](https://github.com/Jackson-0915/Codeforces/blob/main/python/266A.py)  
+[1669A.py](https://github.com/Jackson-0915/Codeforces/blob/main/python/1669A.py)
